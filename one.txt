@@ -1,0 +1,3 @@
+THe change to one.txt
+SOme change on one.txt
+One.txt moved to gitignore
